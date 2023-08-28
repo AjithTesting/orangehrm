@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="67.13" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="sample program execution" name="my first cucumber program execution" time="66.124">
+<system-out><![CDATA[
+Given my first method.......................................................passed
+And login home page.........................................................passed
+And login account...........................................................passed
+And searching...............................................................passed
+Given details...............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
